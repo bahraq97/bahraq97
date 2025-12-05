@@ -1,9 +1,9 @@
 ## Hi there 👋
-'''Java
+```Java
 
 public void foo(){}
 
-'''
+```
 <!--
 **bahraq97/bahraq97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
